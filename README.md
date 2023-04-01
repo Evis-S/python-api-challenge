@@ -2,6 +2,8 @@
 Python API Project - What's the Weather Like?
 
 I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator
+
+
 Part 1: WeatherPy
 I created  the following plots:
 Northern Hemisphere: Temperature vs. Latitude
@@ -13,6 +15,8 @@ Southern Hemisphere: Cloudiness vs. Latitude
 Northern Hemisphere: Wind Speed vs. Latitude
 Southern Hemisphere: Wind Speed vs. Latitude
 After each pair of plots,I explained what the linear regression is modeling. 
+
+
 Part 2: VacationPy
 I created a map that displays a point for every city in the city_data_df.
 city_plot.png
