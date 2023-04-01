@@ -1,3 +1,4 @@
+
 Python API Project - What's the Weather Like?
 I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator
 Part 1: WeatherPy
